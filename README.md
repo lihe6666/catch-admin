@@ -110,7 +110,7 @@ composer create-project jaguarjack/catchadmin:dev-master
     - 付费入群，群里的各位也是没有义务回答各种各样的基础问题。请 GOOGLE。
 
 ### Thanks
-> 排名部分先后
+> 排名不分先后
 
 - [top-think/think](https://github.com/top-think/think)
 - [ant-design-pro-vue](https://github.com/sendya/ant-design-pro-vue)
